@@ -1,0 +1,74 @@
+layout: cv
+title: Mthabisi Munyariri's Resume
+---
+
+# Mthabisi Munyariri
+## Business Analytics (Finance Minor)
+
+<div id="webaddress">
+ <a href="mailto:munyariri94@gmail.com">munyariri94@gmail.com</a> |
+ <a href="https://www.linkedin.com/in/mthabisimunyariri">LinkedIn Profile</a> |
+ <a href="https://mthabisipatrice.github.io/mthabisimunyariri.github.com/">Portfolio</a>
+</div>
+
+## Education
+
+**Brigham Young University - Idaho** (Rexburg, ID)  
+Bachelor of Science - Business Analytics (Minor in Finance), Jan 2020 - Dec 2024  
+GPA: 3.6
+
+- Area of Interest: Assets Management, Market Analytics, Financial Analytics, Data Analytics and Risk Management
+- Academic Scholarships: Hopkin Foundation 2021-2024 and Ray Greenly Scholarship 2024
+- Societies: Data Analytics Society, Digital Marketing Society, and Accounting Society
+
+## Experience
+
+### Data Collection and Analysis Intern  
+**Velociti Inc** (Salt Lake City, UT), Oct 2023 - Jan 2024
+
+- Implemented daily data collection through Velogic Tech app to capture Amazon EV charging activities
+- Utilized Pandas and Excel for weekly data analysis, identifying 15% faster EV charging efficiency and 20% lower fulfillment error rates 
+- Communicated findings and recommendations to Amazon OTR to enhance EV charging practices and data accuracy
+
+### Assistant Manager  
+**Munrach Ent** (Bulawayo, Zimbabwe), Apr 2015 - Oct 2016  
+
+- Leveraged online market research to identify trending products and make investment recommendations, resulting in 20% sales revenue increase
+- Conducted data entry and analysis, achieving 98% reduction in errors and improved data integrity
+- Managed company cash flow by analyzing financial statements and implementing strategic cost-cutting measures, leading to 15% increase in profitability within first quarter
+
+### Full-time Volunteer Representative (Missionary)  
+**The Church of Jesus Christ of Latter-day Saints** (Nairobi, Kenya & Tanzania), Oct 2016 - Oct 2018  
+
+- Planned 43 lessons weekly and helped over 13 people develop and reach goals
+- Started projects like teaching a 20-person English class to help locals understand English better
+
+## Projects
+
+### Student Consultant, Integrated Digital Marketing  
+(Rexburg, ID), Apr 2023 - Jul 2023
+
+- Sustained client communication 3 times a week via email and text
+- Optimized landing page, increasing engagement by 20%  
+- Revamped email campaigns, improving click rate by 30%
+- Analyzed customer data and gym attendance metrics using Excel to identify usage trends
+- Executed optimized Google Ads campaigns, improving website traffic by 20% and weekly attendance by 15%
+
+### Student Consultant for Madison Fire Dept, Data Science Society   
+(Rexburg, ID), Apr 2023 - Dec 2024  
+
+- Implemented MySQL database for inventory management and Excel pivot tables for detailed analysis
+- Created Python program for inventory analysis, boosting safety from 75% to 99% 
+- Efforts led to substantial annual funding increase for fire department from $157,000 to $325,000
+
+## Skills
+
+- Data Analysis: Excel, Python, Pandas, R, Pivot Tables, SQL
+- Business Intelligence: Tableau, Power BI  
+- Digital Marketing: Google Ads, Meta Business Suite, SEO, Email Marketing
+- Soft Skills: Teamwork, Communication, Critical Thinking, Problem Solving, Leadership, Adaptability, Time Management
+- Other: WordPress, Adobe Express, Canva, PowerPoint, Word
+
+## Publications
+
+Visit my portfolio: https://mthabisipatrice.github.io/mthabisimunyariri.github.com/
