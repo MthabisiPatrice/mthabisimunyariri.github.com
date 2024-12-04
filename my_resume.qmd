@@ -17,14 +17,22 @@ title: Mthabisi Munyariri's Resume
 Bachelor of Science - Business Analytics (Minor in Finance), Jan 2020 - Dec 2024  
 GPA: 3.6
 
-- Area of Interest: Assets Management, Market Analytics, Financial Analytics, Data Analytics and Risk Management
+- Area of Interest: Assets Management, Generative AI, Financial Analytics, Data Analytics, and Risk Management
 - Academic Scholarships: Hopkin Foundation 2021-2024 and Ray Greenly Scholarship 2024
 - Societies: Data Analytics Society, Digital Marketing Society, and Accounting Society
 
 ## Experience
 
+### Sales Operations Intern  
+**CHG Healthcare** (Salt Lake City, UT), May 2024 - Aug 2024  
+
+- Revamped data integrity by 37% through meticulous data scrubbing and updating of over 5,000 customer records, improving data quality for analytics
+- Generated 215 actionable insights from customer data, contributing to a 12% increase in the quarterly sales pipeline and informing Go-to-Market strategies
+- Streamlined data analysis processes, reducing average report generation time by 28%, handling 150+ data requests per month
+- Collaborated with management to deliver 18 comprehensive business analytics reports, improving operational efficiency by 22% across multiple teams
+
 ### Data Collection and Analysis Intern  
-**Velociti Inc** (Salt Lake City, UT), Oct 2023 - Jan 2024
+**Velociti Inc** (Salt Lake City, UT), Sep 2023 - Dec 2023
 
 - Implemented daily data collection through Velogic Tech app to capture Amazon EV charging activities
 - Utilized Pandas and Excel for weekly data analysis, identifying 15% faster EV charging efficiency and 20% lower fulfillment error rates 
@@ -33,15 +41,15 @@ GPA: 3.6
 ### Assistant Manager  
 **Munrach Ent** (Bulawayo, Zimbabwe), Apr 2015 - Oct 2016  
 
-- Leveraged online market research to identify trending products and make investment recommendations, resulting in 20% sales revenue increase
+- Leveraged online market research to identify trending products and make investment recommendations, resulting in a 20% sales revenue increase
 - Conducted data entry and analysis, achieving 98% reduction in errors and improved data integrity
-- Managed company cash flow by analyzing financial statements and implementing strategic cost-cutting measures, leading to 15% increase in profitability within first quarter
+- Managed company cash flow by analyzing financial statements and implementing strategic cost-cutting measures, leading to a 15% increase in profitability within the first quarter
 
 ### Full-time Volunteer Representative (Missionary)  
 **The Church of Jesus Christ of Latter-day Saints** (Nairobi, Kenya & Tanzania), Oct 2016 - Oct 2018  
 
 - Planned 43 lessons weekly and helped over 13 people develop and reach goals
-- Started projects like teaching a 20-person English class to help locals understand English better
+- Started projects like teaching a 20-person English class to help locals improve their English
 
 ## Projects
 
@@ -49,26 +57,29 @@ GPA: 3.6
 (Rexburg, ID), Apr 2023 - Jul 2023
 
 - Sustained client communication 3 times a week via email and text
-- Optimized landing page, increasing engagement by 20%  
+- Optimized landing page, increasing engagement by 20%
 - Revamped email campaigns, improving click rate by 30%
 - Analyzed customer data and gym attendance metrics using Excel to identify usage trends
 - Executed optimized Google Ads campaigns, improving website traffic by 20% and weekly attendance by 15%
 
-### Student Consultant for Madison Fire Dept, Data Science Society   
+### Student Consultant for Madison Fire Dept, Data Science Society  
 (Rexburg, ID), Apr 2023 - Dec 2024  
 
-- Implemented MySQL database for inventory management and Excel pivot tables for detailed analysis
-- Created Python program for inventory analysis, boosting safety from 75% to 99% 
-- Efforts led to substantial annual funding increase for fire department from $157,000 to $325,000
+- Led a 5-person team to implement a MySQL database for inventory management and used Excel pivot tables for detailed analysis
+- Created a Python program for inventory analysis, boosting safety from 75% to 99%
+- Efforts led to a substantial annual funding increase for the fire department from $157,000 to $325,000
 
 ## Skills
 
-- Data Analysis: Excel, Python, Pandas, R, Pivot Tables, SQL
-- Business Intelligence: Tableau, Power BI  
-- Digital Marketing: Google Ads, Meta Business Suite, SEO, Email Marketing
-- Soft Skills: Teamwork, Communication, Critical Thinking, Problem Solving, Leadership, Adaptability, Time Management
-- Other: WordPress, Adobe Express, Canva, PowerPoint, Word
+- **Data Analysis**: Excel (Pivot Tables, Macros, Power Query, VBA), Python (Pandas, NumPy), R Programming (Tidyverse, ggplot2)
+- **Business Intelligence**: Tableau, Power BI  
+- **Machine Learning**: Linear and Logistic Regression, Decision Trees, Random Forests, Neural Networks, Naive Bayes
+- **Finance**: Financial Analysis, Financial Forecasting, Valuation Techniques, Asset Management, Market Analysis
+- **Digital Marketing**: Google Ads, Meta Business Suite, SEO, Email Marketing
+- **Databases**: MySQL, SQLite, Snowflake
+- **Soft Skills**: Teamwork, Communication, Critical Thinking, Problem Solving, Leadership, Adaptability, Time Management
+- **Other**: WordPress, Adobe Express, Canva, PowerPoint, Word
 
 ## Publications
 
-Visit my portfolio: https://mthabisipatrice.github.io/mthabisimunyariri.github.com/
+Visit my portfolio: [https://mthabisipatrice.github.io/mthabisimunyariri.github.com/](https://mthabisipatrice.github.io/mthabisimunyariri.github.com/)
